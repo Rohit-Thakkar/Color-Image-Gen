@@ -1,1 +1,2 @@
-# Color-Image-Gen
+# ColorImage-MobilnetV2
+Color Image generation from grey scale
